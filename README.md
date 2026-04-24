@@ -3,8 +3,12 @@
 
 >community-built DEX on LitVM : Swap, Pool, and Deploy smart contracts directly from your browser.
 
-🔗 **Live App:** [litdex.test-hub.xyz](https://litdex.test-hub.xyz)  
-🔗 **Explorer:** [liteforge.explorer.caldera.xyz](https://liteforge.explorer.caldera.xyz)
+## 🔗 Links
+
+- 🌐 **App:** [litdex.test-hub.xyz](https://litdex.test-hub.xyz)
+- 🔍 **Explorer:** [liteforge.explorer.caldera.xyz](https://liteforge.explorer.caldera.xyz)
+- 📣 **X Announcement:** [cryptobhartiyax on X](https://x.com/cryptobhartiyax/status/2047681856532099140)
+- 🐙 **This Guide:** [github.com/0xDarkSeidBull/litdex_guide](https://github.com/0xDarkSeidBull/litdex_guide)
 
 ---
 
@@ -83,4 +87,4 @@ This is a **testnet application** built on LitVM LiteForge. Tokens have no real 
 
 ---
 
-Built with 🔥 by [@0xDarkSeidBull](https://twitter.com/0xDarkSeidBull) for the LitVM community.
+Built with by [@0xDarkSeidBull](https://twitter.com/0xDarkSeidBull) for the LitVM community.
