@@ -13,7 +13,7 @@ except ImportError:
     cancel_order = None
 from config import PAPER_TRADE
 
-logging.basicConfig(filename="/root/btc5m_v2/bot.log", level=logging.INFO,
+logging.basicConfig(filename="/root/btc5m_v3_logged/bot.log", level=logging.INFO,
                     format="%(asctime)s %(levelname)-8s %(message)s")
 logger = logging.getLogger(__name__)
 
@@ -29,7 +29,7 @@ SL_PRICE     = 0.84   # (with FORCE_EXIT_REM_SEC below)
 FORCE_EXIT_REM_SEC = 10   # if TP/SL not hit and this few sec remain, close at market regardless
 
 # ---------- data logging (pure logging, zero effect on trading logic) ----------
-DATA_DIR   = "/root/btc5m_v2/bot_data"
+DATA_DIR   = "/root/btc5m_v3_logged/bot_data"
 TICKS_DIR  = os.path.join(DATA_DIR, "ticks")
 FILE_GE15  = os.path.join(DATA_DIR, "trades_ptb_ge15.csv")
 FILE_LT15  = os.path.join(DATA_DIR, "trades_ptb_lt15.csv")
